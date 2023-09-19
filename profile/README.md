@@ -13,13 +13,9 @@
 
 # UNIDAD 2
 
-**EJERCICIOS** de la Unidad :two: :
+**EJERCICIOS** de la Unidad :two: 
 * [EJ1 - TransferenciaDatos](https://github.com/emmaprofemx/Ensamblador-U2/blob/main/PM_U2_Q2/P_1_TransferenciaDatos.asm)
 
-
-
- Ejercicios de Tarea :shipit: :books::
- * [ET1-Areas](https://github.com/emmaprofemx/Ensamblador-U2/blob/main/PM_U2_Q2/ET_1_Areas.asm)
 
 
 
